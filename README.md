@@ -34,3 +34,5 @@ End if
 ```
 
 <img width="480" height="159" alt="Screenshot 2026-03-18 at 22 32 58" src="https://github.com/user-attachments/assets/e35de587-f332-4234-83b9-1562695731aa" />
+
+https://miyako.github.io/CTranslate2/generate
