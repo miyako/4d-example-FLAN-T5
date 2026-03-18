@@ -1,2 +1,1 @@
-# 4d-example-FLAN-T5
-FLAN T5 in CT2
+## [google/flan-t5-large](https://huggingface.co/google/flan-t5-large)
