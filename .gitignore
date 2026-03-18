@@ -1,0 +1,4 @@
+FLAN T5/Data/*
+FLAN T5/Project/DerivedData/formAttributes.json
+FLAN T5/Project/DerivedData/methodAttributes.json
+FLAN T5/userPreferences.*

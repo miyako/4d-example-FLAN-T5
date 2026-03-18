@@ -1,0 +1,10 @@
+translate English to French: 
+
+1. Definitions
+Main definitions
+
+“Client” is the legal entity entering into this agreement.
+
+“User” is a natural person or legal entity who accesses and uses Client’s Application through an authorization granted by Client
+
+“Application” means the program developed with or by the 4D Products.

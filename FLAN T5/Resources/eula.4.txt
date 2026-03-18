@@ -1,0 +1,5 @@
+translate English to German: 
+
+“4D Products” means 4D's computer program(s) in machine-readable executable code form and copies made of it, including related Documentation, any replacement or change and/or any Update provided under the Agreement.
+
+“Environment” means the computer hardware, operating system(s) ("platform(s)") required for use in conjunction with the 4D Products, and indicated in the Documentation, it being agreed that each license is only granted for one (1) Environment.
