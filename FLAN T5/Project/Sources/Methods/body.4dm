@@ -4,7 +4,6 @@
 $0:={\
 messages: Null:C1517; \
 stream: This:C1470.stream; \
-sampling: This:C1470.sampling; \
 prompt: This:C1470.prompt; \
 sampling_topp: This:C1470.sampling_topp; \
 sampling_topk: This:C1470.sampling_topk; \

@@ -7,6 +7,7 @@ Case of
 		var $homeFolder : 4D:C1709.Folder
 		$homeFolder:=Folder:C1567(fk home folder:K87:24).folder(".CTranslate2")
 		
+		var $LLM : cs:C1710.LLM
 		$LLM:=cs:C1710.LLM.new(\
 			$homeFolder.folder("flan-t5-large"); \
 			"flan-t5-large-ct2-int8"; \
