@@ -45,6 +45,7 @@ Function demo()
 	$ChatCompletionsParameters.prompt:=[Form:C1466.prompt]
 	$ChatCompletionsParameters.formula:=Form:C1466.response
 	$ChatCompletionsParameters.stream:=True:C214
+	$ChatCompletionsParameters.max_decoding_length:=1024
 	
 /*
 	
